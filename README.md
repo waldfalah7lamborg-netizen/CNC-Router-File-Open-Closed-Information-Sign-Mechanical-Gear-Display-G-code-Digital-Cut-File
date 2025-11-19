@@ -4,6 +4,9 @@ Digital Cutting Path File (G-code .nc)
 
 This repository contains the digital CNC router files for creating a mechanical Open/Closed information sign driven by interlocking gears. The design is optimized for CNC routing and includes a pre-generated G-code (.nc) cutting program compatible with most CNC machines.
 
+<img src="images/ring1.jpg" width="300"> <img src="images/ring2.jpg" width="300"> <img src="images/ring3.jpg" width="300"> <img src="images/ring4.jpg" width="300"> <img src="images/IMG_20230717_152152.jpg" width="300"> <img src="images/IMG_20230717_152844.jpg" width="300">
+
+
 📌 Project Description
 
 This project features a rotating gear-based display that switches between the words “open” and “closed.”
